@@ -1,10 +1,10 @@
-package com.edntisolutions.javaavancado;
+package com.edntisolutions.bankproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaAvancadoApplicationTests {
+class BankprojectApplicationTests {
 
 	@Test
 	void contextLoads() {
